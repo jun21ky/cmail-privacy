@@ -47,8 +47,8 @@ Cmail's use and transfer of information received from Google APIs to any other a
 
 ## 5. データの削除
 
-- 本アプリの設定からアカウントの連携を外すと、保存されたトークンを削除します
-- Google 側の許可は <https://myaccount.google.com/permissions> からいつでも取り消せます
+- Google の許可は <https://myaccount.google.com/permissions> からいつでも取り消せます。取り消すと、Mac に残ったトークンは使えなくなります
+- 本アプリを削除し、Mac の中の設定とキーチェーンの項目を消すと、保存された情報はすべてなくなります
 
 ## 6. 本ポリシーの変更
 

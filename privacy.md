@@ -56,7 +56,7 @@ Cmail's use and transfer of information received from Google APIs to any other a
 
 ## 7. お問い合わせ
 
-<https://github.com/junhayashii0/cmail-privacy/issues>
+<https://github.com/jun21ky/cmail-privacy/issues>
 
 ---
 
